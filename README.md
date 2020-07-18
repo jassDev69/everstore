@@ -28,7 +28,7 @@ If you are willing to contribute in any area listed above or have something new 
 If you have any doubt, suggestion then you can [open issue](HTTPS://guides.github.com/features/issues/) at this repository. :wave:
 
 
-# [View Here](https://github.com/jassDev69/everstore)
+# [View Here](https://jassdev69.github.io/everstore/)
 
 
 
